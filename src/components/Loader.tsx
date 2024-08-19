@@ -1,11 +1,10 @@
 
 
 const Loader = () => {
-  return (
-    <div>
-      Loader;
-    </div>
-  )
+  return <section className="loader">
+    <div></div>
+  </section>
+    
 };
 
 export default Loader;
